@@ -5,8 +5,6 @@
  */
 package atmsystem;
 
-import java.util.ArrayList;
-import java.util.List;
 
 // Creational Pattern: Factory Method
 // TransactionFactory class creates instances of different transaction types

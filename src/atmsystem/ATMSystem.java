@@ -4,8 +4,6 @@
  * and open the template in the editor.
  */
 package atmsystem;
-import java.util.ArrayList;
-import java.util.List;
 // Model-View-Controller (MVC) ATM system
 public class ATMSystem {
     public static void main(String[] args) {
